@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+#text_area {
+  border-radius: 5px;
+  font-size: 16px;
+  line-height: 20px;
+  padding: 5px;
+  resize: none;
+}
+body{
+    background-color: #7fff7f;
+}
+
+
+#text_length.out {
+  color: #C00;
+}
